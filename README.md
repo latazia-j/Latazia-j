@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Latazia 👋
 
-<!--
-**latazia-j/Latazia-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a career switcher moving from psychology and criminal justice into software engineering.  
+I’m currently focused on front-end and full-stack development using HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- JavaScript (DOM manipulation & logic)
+- React.js (component-based UI)
+- Git & GitHub (version control and collaboration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+HTML • CSS • JavaScript • Git • GitHub • VS Code
+
+## 🔭 Projects
+- **Quiz App** – A fully interactive multiple-choice quiz [Link coming soon]
+- **Portfolio Site** – My personal developer portfolio [Live Demo soon]
+
+## 💬 Ask Me About
+Career change tips, psychology + tech, and building resilient learning systems!
+
+## 📫 Contact Me
+- [LinkedIn](#) (https://www.linkedin.com/in/latazia-joseph-8154421b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
